@@ -62,6 +62,7 @@ Submit a solution with a pull request to this [file](https://github.com/TheOdinP
 - [ivantbv's Solution](https://github.com/ivantbv/rock-paper-scissors)
 - [Sadagat Asgarov's Solution](https://github.com/sadagatasgarov/Rock-Paper-Scissors.git)
 - [Bernardo Vargas's Solution](https://github.com/bernardoVargasF/rock-paper-scissors)
+- [Chris F's Solution]  (https://github.com/cfonseca2013/rock-paper-scissors.git)
 - [Eco-Developer's Solution](https://github.com/Eco-developer/rock-paper-scissors) - [View in Browser](https://eco-developer.github.io/rock-paper-scissors/)
 - [AGL's Solution](https://github.com/agl9/rockpaperscissors/)
 - [devLevi's Solution](https://github.com/devLevi/rock-paper-scissors) - [View in Browser](https://devlevi.github.io/rock-paper-scissors/)
